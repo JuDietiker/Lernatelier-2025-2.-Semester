@@ -2,8 +2,8 @@
 
 # Noten
 # To does
-  -SQL Anwendungsprojekt
-  -Java Script lernen, eine Anwendung erstellen
+    SQL Anwendungsprojekt
+    Java Script lernen, eine Anwendung erstellen
   -Python lernen 
   -Github bedienung über Tenminal lernen
   -Mods schreiben.
