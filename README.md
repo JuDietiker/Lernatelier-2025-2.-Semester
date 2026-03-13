@@ -4,11 +4,10 @@
 # To does
     SQL Anwendungsprojekt
     Java Script lernen, eine Anwendung erstellen
-  -Python lernen 
-  -Github bedienung über Tenminal lernen
-  -Mods schreiben.
-  -Websicherheit
-  -Mods schreiben
-
+      Python lernen 
+      Github bedienung über Tenminal lernen
+      Mods schreiben.
+      Websicherheit
+      Mods schreiben
 
 # 
