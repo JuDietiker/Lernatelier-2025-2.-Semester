@@ -1,7 +1,7 @@
 # Lernatelier-2025-2. Semester
 
 # Noten
-# To does
+# To does hello
     SQL Anwendungsprojekt
     Java Script lernen, eine Anwendung erstellen
       Python lernen 
